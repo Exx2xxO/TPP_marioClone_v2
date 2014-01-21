@@ -1,0 +1,15 @@
+div .gridCell{
+	border-color: #000;
+	border-style: dotted;
+	border-width: 1px;
+}
+
+div .grid {
+	position: absolute;
+	background-color: #fff;
+	border: #000 solid 1px;
+}
+
+div .tiles {
+	background-image: url('')
+}
